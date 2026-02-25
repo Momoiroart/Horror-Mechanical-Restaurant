@@ -6,6 +6,7 @@
 [![Phase](https://img.shields.io/badge/Phase-1-blue)](https://github.com/Momoiroart/Horror-Mechanical-Restaurant)
 
 A Roblox horror/survival game where you run a restaurant, serve customers, and survive against mechanical animals at night.
+This project is a collaborative development between a teacher and a student, aiming to create a unique horror-survival experience on Roblox. We combined restaurant management mechanics with intense survival elements. During the day, players must serve food to customers, while carefully identifying "weird" NPCs who can be eliminated to prevent an increase in mechanical animal activity at night.
 
 ---
 
