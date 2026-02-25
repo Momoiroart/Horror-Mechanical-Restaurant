@@ -1,0 +1,36 @@
+# Roblox
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
+*.mat
+*.png
+*.wav
+*.mp3
+
+# Roblox Studio
+session.lock
+settings.xml
+StudioApp.xml
+UserSettings.ini
+
+# IDE / Editor
+.idea/
+.vscode/
+*.suo
+*.user
+*.userosskin
+*.sln.docstates
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Output
+BuiltPlugins/
+Extrapolation/
+Game/
+MELTZ/
+ModLoader/
+SharedSubmodules/
