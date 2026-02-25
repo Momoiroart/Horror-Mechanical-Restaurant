@@ -8,18 +8,32 @@
 [![Topic: Game](https://img.shields.io/badge/Topic-Game-28A745)](https://github.com/topics/game)
 [![Phase](https://img.shields.io/badge/Phase-1-blue)](https://github.com/Momoiroart/Horror-Mechanical-Restaurant)
 
-A Roblox horror/survival game where you run a restaurant, serve customers, and survive against mechanical animals at night.
+> 🔪 *Serve meals. Spot the fakes. Survive the night.*
+
+A Roblox horror-survival game where you run a haunted restaurant — but something's wrong with your customers. Some are... *different*. While the sun's up, you cook, you serve, you watch closely. That quiet customer in the corner? The one who ordered raw meat? They might not be human at all.
+
+Get it wrong? The mechanical beasts that prowl at night grow hungrier. Lock the windows. Hold your breath. And whatever you do — don't let them find you.
 
 ---
 
-## Gameplay
+## 🎯 What Makes It Unique
 
-- **Lobby** → Set player count, friends-only mode, teleport to game
-- **Day Phase (5 min)** → Cook & serve food to customers
-- **The Twist** → Some customers are "weird" — identify and kill them
-- **Night Phase** → Mechanical animals attack, lock windows to survive
-- **Challenge** → Dispose leftover food outside before animals find you
-- **Goal** → Survive 64 days, earn gems for upgrades (speed, weapons)
+- 🤥 **Paranoia Gameplay** — Every customer could be a threat
+- 🌙 **Day/Night Tension** — Manage the restaurant by day, survive by night
+- 🏪 **Resource Management** — Cook, serve, upgrade your way to 64 days
+- 👥 **Multiplayer Chaos** — Play with friends (or enemies)
+
+---
+
+## 🎮 How to Play
+
+| Phase | What You Do |
+|-------|-------------|
+| **☀️ Day** | Cook food, serve customers, watch for the weird ones |
+| **🔪 The Test** | Identify which customers are... *different*. Kill them. Get it wrong → more beasts at night |
+| **🌙 Night** | Mechanical animals attack. Lock every window. Fast. |
+| **🗑️ The Challenge** | Dump leftover food outside before the animals sniff it out |
+| **💎 Survive** | Make it through 64 days. Earn gems. Upgrade. Repeat. |
 
 ---
 
@@ -49,16 +63,21 @@ A Roblox horror/survival game where you run a restaurant, serve customers, and s
 2. Check `PROJECT_STRUCTURE.md` for folder layout
 3. Start with `DEVELOPMENT_PLAN.md` → Phase 1
 
-## Team
+## 👥 The Team
 
-| Role | Name | Roblox |
-|------|------|--------|
-| 💻 Coding | Momoiro | [@Pakaphon](https://www.roblox.com/users/71398175/profile) |
-| 🎨 Design | Ploen355 | [@Ploen355](https://www.roblox.com/users/5815161111/profile) |
+| Role | Who | Roblox |
+|------|-----|--------|
+| 💻 Coding | **Momoiro** | [@Pakaphon](https://www.roblox.com/users/71398175/profile) |
+| 🎨 Design | **Ploen355** | [@Ploen355](https://www.roblox.com/users/5815161111/profile) |
 
-## License
+---
 
-[MIT License](LICENSE) — Free to use and modify.
+## 🐛 Found a Bug?
 
-## Any Issue 
-[🐛 Issues](https://github.com/Momoiroart/Horror-Mechanical-Restaurant/issues)
+[Open an Issue](https://github.com/Momoiroart/Horror-Mechanical-Restaurant/issues) — help us make this game better!
+
+---
+
+## 📜 License
+
+[MIT License](LICENSE) — Built with ❤️ and caffeine.
