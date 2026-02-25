@@ -6,7 +6,7 @@
 
 A Roblox horror/survival game where you run a restaurant, serve customers, and survive against mechanical animals at night.
 
-[📁 Project Board](https://github.com/users/Momoiroart/projects/1) · [🐛 Issues](https://github.com/Momoiroart/Horror-Mechanical-Restaurant/issues)
+[🐛 Issues](https://github.com/Momoiroart/Horror-Mechanical-Restaurant/issues)
 
 ---
 
