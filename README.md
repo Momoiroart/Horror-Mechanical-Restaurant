@@ -1,6 +1,14 @@
 # 🎮 Mechanical Restaurant Horror
 
+[![Lua](https://img.shields.io/badge/Lua-000048?style=flat&logo=lua)](https://www.lua.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Phase](https://img.shields.io/badge/Phase-1-blue)](https://github.com/Momoiroart/Horror-Mechanical-Restaurant)
+
 A Roblox horror/survival game where you run a restaurant, serve customers, and survive against mechanical animals at night.
+
+[📁 Project Board](https://github.com/users/Momoiroart/projects/1) · [🐛 Issues](https://github.com/Momoiroart/Horror-Mechanical-Restaurant/issues)
+
+---
 
 ## Gameplay
 
@@ -10,6 +18,8 @@ A Roblox horror/survival game where you run a restaurant, serve customers, and s
 - **Night Phase** → Mechanical animals attack, lock windows to survive
 - **Challenge** → Dispose leftover food outside before animals find you
 - **Goal** → Survive 64 days, earn gems for upgrades (speed, weapons)
+
+---
 
 ## Project Structure
 
@@ -21,27 +31,29 @@ A Roblox horror/survival game where you run a restaurant, serve customers, and s
 └── TECH_STACK.md        # Lua modules, services, code patterns
 ```
 
+## Progress
+
+| Phase | Status | Description |
+|-------|--------|-------------|
+| Phase 1 | 🔄 In Progress | Lobby, Environment, Day/Night |
+| Phase 2 | ⏳ Pending | Food System, Customers, Kill Mechanic |
+| Phase 3 | ⏳ Pending | Night Mechanics, Animals, Windows |
+| Phase 4 | ⏳ Pending | Progression (64 days, gems, upgrades) |
+| Phase 5 | ⏳ Pending | Polish (sound, visuals, testing) |
+
 ## Quick Start
 
 1. Open in Roblox Studio
 2. Check `PROJECT_STRUCTURE.md` for folder layout
-3. Start with `DEVELOPMENT_PLAN.md` Phase 1
-
-## Development Phases
-
-| Phase | Focus |
-|-------|-------|
-| 1 | Lobby, Environment, Day/Night |
-| 2 | Food System, Customers, Kill Mechanic |
-| 3 | Night Mechanics, Animals, Windows |
-| 4 | Progression (64 days, gems, upgrades) |
-| 5 | Polish (sound, visuals, testing) |
+3. Start with `DEVELOPMENT_PLAN.md` → Phase 1
 
 ## Team
 
-- **You** — Coding
-- **Student** — Design
+| Role | Name |
+|------|------|
+| 💻 Coding | [Momoiro](https://roblox.com/users/YOUR_ID) |
+| 🎨 Design | [Ploen335](https://roblox.com/users/YOUR_ID) |
 
 ## License
 
-MIT License
+[MIT License](LICENSE) — Free to use and modify.
