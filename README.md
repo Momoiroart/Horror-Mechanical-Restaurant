@@ -53,8 +53,8 @@ A Roblox horror/survival game where you run a restaurant, serve customers, and s
 
 | Role | Name | Roblox |
 |------|------|--------|
-| 💻 Coding | Momoiro | [@Pakaphon](https://www.roblox.com/users/) |
-| 🎨 Design | Ploen355 | [@Ploen355](https://www.roblox.com/users/) |
+| 💻 Coding | Momoiro | [@Pakaphon](https://www.roblox.com/users/71398175/profile) |
+| 🎨 Design | Ploen355 | [@Ploen355](https://www.roblox.com/users/5815161111/profile) |
 
 ## License
 
