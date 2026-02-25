@@ -17,6 +17,7 @@ UserSettings.ini
 # IDE / Editor
 .idea/
 .vscode/
+.obsidian/
 *.suo
 *.user
 *.userosskin
